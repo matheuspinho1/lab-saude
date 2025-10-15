@@ -50,7 +50,7 @@ Este projeto apresenta um dashboard moderno e responsivo que exibe informações
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/senac-labs-dashboard.git
+git clone https://github.com/matheuspinho1/senac-lab-saude.git
 ```
 
 2. Navegue até o diretório do projeto:
@@ -86,4 +86,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
 
-Link do Projeto: [https://github.com/seu-usuario/senac-labs-dashboard](https://github.com/seu-usuario/senac-labs-dashboard)
+Link do Projeto: [https://github.com/matheuspinho1/senac-lab-saude](https://github.com/matheuspinho1/senac-lab-saude)
